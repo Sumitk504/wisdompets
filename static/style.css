@@ -569,6 +569,15 @@ li.default-menu {
 /*--------------------------------------------------------------
 6.0 Images
 --------------------------------------------------------------*/
+.Blog-preview-final {
+	font-style: italic;
+	font-weight: normal;
+	padding: 20px;
+	border: 1px solid #f2f2f2;
+	border-left: 3px solid #80abc8;
+	margin-bottom: 20px;
+}
+
 figure {
 	margin: 0;
 	text-align: center;
