@@ -137,7 +137,7 @@ button::-moz-focus-inner {
 h1, h2, h3, h4, h5, h6 {
 	color: #666666;
 	line-height: 1.4;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
 	font-weight: normal;
 }
 h1 { font-size: 29px; }
@@ -177,7 +177,7 @@ p {
 ====> 3.1 Superscript and Subscript
 --------------------------------------------------------------*/
 sup, sub {
-	font-size: 12px;
+	font-size: 15px;
 	height: 0;
 	line-height: 1;
 	position: relative;
@@ -203,7 +203,7 @@ th {
 	font-weight: bold;
 }
 th, td {
-	border: 1px solid #f2f2f2;
+	border: 1px solid #ffa6c9;
 	padding: 6px 10px;
 }
 caption, th, td {
